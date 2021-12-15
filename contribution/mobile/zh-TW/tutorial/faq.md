@@ -1,48 +1,47 @@
-### What is this game, and what do I do?
-Basically you adventure around 'Train Stations' and either defeat individual enemies or conquer entire dungeons.
-You'll randomly receive items, equipment or caches after defeating enemies.
+### 這是什麼遊戲,我可以做什麼?
+基本上，您在可以通過“超迴路列車站”到處冒險，或者擊敗個別敵人或征服整個地牢。
+在擊敗敵人後，您將會獲得隨機的物品、裝備或任意的快取記憶體。
 
-**You will receive BTC and EXP inside a battle, but items won't drop after every single battle.**
+**您在一場戰鬥中會獲得 BTC 和 EXP，但不會在每場戰鬥後掉落物品.**
 
-### Is this game P2W (Pay-to-Win)?
-No. There's no element in this game that would benefit or offer additional advantages to some players over others.
+### 這是不是氪金遊戲 (Pay-to-Win)?
+不。這遊戲中沒有任何氪金元素可以使某些玩家比其他玩家有額外的優勢。
 
-The Transmitters sold in the Arasaka Unit Exchange have a global effect, which means once it is activated, all players on the server will benefit from the effect that it gives. Similarly, the Global Skips that can be purchased apply to all players who have started AFK tasks.
+荒坂貨幣换匯中出售的加速器具有全球效果，這意味著一旦激活它，服務器上的所有玩家都將從它所提供的效果中受益。同樣，可以購買的全局全球適用於所有已開始掛機 (AFK) 任務的玩家。
 
-The developer intends to keep the game non-P2W into the future.
+我們將會一直維持非氪金為王的原則
 
-### How can I help out?
-All user-contributed content can be found on the [Github](https://github.com/DexterHuang/CyberCodeOnline).  
-Feel free to submit a PR (Pull Request).
+### 我該如何幫忙?
+所有用戶貢獻的內容都可以在 [Github](https://github.com/DexterHuang/CyberCodeOnline).  
+請不要介意提交你的 PR (Pull Request).
 
-### Does this game have any social media?
-Yes. You can find our community on [Discord](https://discord.link/cco) and on [Reddit](https://www.reddit.com/r/CyberCode_Online/).
+### 這個遊戲有任何討論社群嗎?
+當然,你可以在 [Discord](https://discord.link/cco) 和 [Reddit](https://www.reddit.com/r/CyberCode_Online/)找到我們的社群. 
 
-The developer (DexterHuang) also has a [Patreon](https://www.patreon.com/cybercodeonline) for donations that will help support and maintain the game.
+開發者 (DexterHuang) 也有 [Patreon](https://www.patreon.com/cybercodeonline) 用於幫助支持和維護遊戲的捐款
 
-These social links can also be found by accessing ☰ and clicking on the chain link symbol on mobile or by accessing the respective platform icons on the left side of the web view.
+這些社群鏈接也可以通過訪問 ☰ 並單擊移動設備上的符號或訪問網頁上左側的相應的圖標找到。
 
-### What programs or languages are being used for the creation of this game?
-CyberCode Online is a game developed using [ReactJS](https://reactjs.org/) with player contributions from [Github](https://github.com/DexterHuang/CyberCodeOnline).
+### 這遊戲使用了什麼程式語言創作？?
+CyberCode Online 是一款使用 [ReactJS](https://reactjs.org/) 加上來自[Github]上玩家的貢獻 [Github](https://github.com/DexterHuang/CyberCodeOnline)所開發的遊戲 .
 
-### Is the game translated in other languages?
-Yes. This game is currently translated in 15 languages.
+### 這遊戲是否有其他語言的版本？?
+是的,此遊戲目前已翻譯成 15 種語言.
 
-To change the language of the game,  
-go to Map and click on ⚙️.
+若想更改遊戲語言,  
+請前往主畫面並點擊 ⚙️ 圖標.
 
-Please notice that the translations might contain mistakes, be incomplete or some parts of the game might be completely untranslated.
-If the game is not translated in your language or you want to improve the current translations, please head out to our [Github](https://github.com/DexterHuang/CyberCodeOnline).
+請注意翻譯中可能包含錯誤、不完整或某些部分可能完全未翻譯
+如果遊戲沒有翻譯成您的語言，或者您想改進當前的翻譯，請前往我們的社群[Github](https://github.com/DexterHuang/CyberCodeOnline).
 
-### Is there any customization in the game?
-You can have a custom profile picture in your profile, a Title and a coloured chat border, if you decide to subscribe to one of the 5 Donation Tiers available.
+### 這遊戲中是否有任何自定義元素?
+如果您訂閱可用的 5 個捐贈級別之一，您可以在您的個人資料中添加自定義個人資料圖片、標題和彩色聊天邊框。
 
-Elite Tier and higher, will have access to a bio on their profile and a barcode.  
+精英級別及更高級別，將可以訪問其個人資料和條形碼上的個人簡介。
+這些好處純粹是裝飾性的。
 
-These benefits are purely cosmetic.
-
-### Can I change my name?
-No, you can't change your name.  
+### 我可以改名嗎?
+不，你不能更改你的名字。 
 Your username is permanent for now.
 
 ### How do I tag someone? Can I search the usernames of other people?
